@@ -1,5 +1,6 @@
 class Dog
-  def sit 
+  def sit
+  puts 
     
 def bark
     puts "Woof!"
