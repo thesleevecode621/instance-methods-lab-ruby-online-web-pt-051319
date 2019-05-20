@@ -1,3 +1,6 @@
-class Person 
+class Person
+  
+  def talk 
+    puts 
   
 end 
